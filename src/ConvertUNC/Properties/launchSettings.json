@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConvertUNC": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Windows\\System32\\notepad.exe //DS918Plus/Brar/dev/repos/npgsql/.git/COMMIT_EDITMSG"
+    }
+  }
+}
